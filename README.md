@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Arsalan Mustafa Malik 👋
 
-<!--
-**malik123arsalan/malik123arsalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Agentic AI Developer | Building Agentic AI Systems
 
-Here are some ideas to get you started:
+MCA graduate with a strong foundation in Python and applied machine learning. Currently deep-diving into Agentic AI — building autonomous, multi-agent systems using LLMs, LangChain, and LangGraph.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ What I'm Currently Building
+
+[ResolveX AI](https://github.com/malik123arsalan/resolvex-ai) — An autonomous incident detection and resolution system with human-in-the-loop approval. A multi-agent architecture built with FastAPI, LangGraph, and LLM-powered reasoning. *(In Progress)*
+
+ What I've Built
+
+[Smart Crop Health and Disease Recommendation](https://github.com/malik123arsalan/potato-leaf-disease-detection) — A Flask web app that detects potato leaf diseases from images using a MobileNetV2-based CNN,treatment advisory.
+
+---
+
+Tech I Work With
+
+Python
+TensorFlow
+Flask
+FastAPI
+LangChain
+OpenCV
+Git
+
+---
+
+Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/arsalan-mustafa-malik)
+📧 arsalanmustafamalik@gmail.com
+
+---
+
+*Currently learning: LangGraph, RAG pipelines, and multi-agent orchestration — building in public, one commit at a time.*
