@@ -1,4 +1,4 @@
-# Hi, I'm Arsalan Mustafa Malik 👋
+Hi, I'm Arsalan Mustafa Malik 👋
 
 Aspiring Agentic AI Developer | Building Agentic AI Systems
 
