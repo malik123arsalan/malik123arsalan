@@ -12,7 +12,7 @@ MCA graduate with a strong foundation in Python and applied machine learning. Cu
 
  What I've Built
 
-[Smart Crop Health and Disease Recommendation](https://github.com/malik123arsalan/potato-leaf-disease-detection) — A Flask web app that detects potato leaf diseases from images using a MobileNetV2-based CNN,treatment advisory.
+[Smart Crop Health and Disease Recommendation](https://github.com/malik123arsalan/Smart-Crop-Health-and-Disease-Recommendation) — A Flask web app that detects potato leaf diseases from images using a MobileNetV2-based CNN,treatment advisory.
 
 ---
 
